@@ -17,6 +17,8 @@ require (
 	github.com/gobuffalo/packr/v2 v2.2.0
 	github.com/gobuffalo/pop v4.11.0+incompatible
 	github.com/gobuffalo/suite v2.6.2+incompatible
+	github.com/gobuffalo/validate v2.0.3+incompatible
+	github.com/gofrs/uuid v3.2.0+incompatible
 	github.com/golang/protobuf v1.3.1 // indirect
 	github.com/karrick/godirwalk v1.10.3 // indirect
 	github.com/markbates/grift v1.0.5
