@@ -3,7 +3,6 @@ module app
 go 1.12
 
 require (
-	github.com/codegangsta/negroni v1.0.0 // indirect
 	github.com/gobuffalo/buffalo v0.14.3
 	github.com/gobuffalo/buffalo-plugins v1.14.1 // indirect
 	github.com/gobuffalo/buffalo-pop v1.12.0
