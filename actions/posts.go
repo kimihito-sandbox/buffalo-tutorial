@@ -6,4 +6,3 @@ import "github.com/gobuffalo/buffalo"
 func PostsIndex(c buffalo.Context) error {
 	return c.Render(200, r.HTML("posts/index.html"))
 }
-
